@@ -13,4 +13,4 @@ The examples are
 ### 1. Sweat gland outlier analysis
 
 An R markdown file and the associated pdf output are location in the folder SweatGlandOutliers. 
-This is an extension of the work in Kuronen et al. (2021). The code associated with that paper can be found at https://github.com/mikkoku/SweatPaper. 
+This is an extension of the work in <a href="https://doi.org/10.1002/sim.8891" target="new">Kuronen et al. (2021)</a>. The code associated with that paper can be found at https://github.com/mikkoku/SweatPaper. 
