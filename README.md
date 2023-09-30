@@ -15,7 +15,7 @@ This is an extension of the work in <a href="https://doi.org/10.1002/sim.8891" t
 
 ### 2. Earthquake modeling 
 
-Scripts for earthquake fitting and jittering, relevant for the example discussed in Section 4.3 of the paper, are provided in the folder Earthquakes. This code was written my Max Schneider. 
+Scripts for earthquake fitting and jittering, relevant for the example discussed in Section 4.3 of the paper, are provided in the folder Earthquakes. This code was written by Max Schneider. 
 
 ### 3. Spatial pattern of air bubbles in polar ice 
 
